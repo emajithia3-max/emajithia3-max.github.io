@@ -1,1 +1,4 @@
+# app-ads.txt for BOOM! - Stash, Risk, Explode
 google.com, pub-1668154877566514, DIRECT, f08c47fec0942fa0
+OWNERDOMAIN=emajithia3-max.github.io
+CONTACT=unleeshedstudios@gmail.com
